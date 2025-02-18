@@ -1,0 +1,16 @@
+2024-12-12 21:42:26,882: Failed to check disk space for '/Users/student/': '>' not supported between instances of 'float' and 'NoneType'
+2024-12-12 22:15:52,731: Missing username or role.
+2024-12-12 22:16:10,908: Missing username or role.
+2024-12-12 22:16:22,935: Invalid username format: 'invalid username'. Usernames should not contain spaces.
+2024-12-12 22:16:58,989: Failed to create user 'testuser': Command '['sudo', 'useradd', '-m', 'testuser']' returned non-zero exit status 1.
+2024-12-12 22:20:31,920: Failed to organize directory '/Users/student/Documents': Destination path '/Users/student/Documents/_files/.DS_Store' already exists
+2024-12-12 22:21:29,478: Failed to organize directory '/Users/student/Documents': Destination path '/Users/student/Documents/_files/.DS_Store' already exists
+2024-12-12 22:22:42,055: Failed to organize directory '/Users/student/Documents': Destination path '/Users/student/Documents/_files/.DS_Store' already exists
+2024-12-12 22:39:45,609: Invalid row in CSV: {'johndoe': 'janedoe', 'admin': 'user', 'defaultpass123': 'userpass456'}
+2024-12-12 22:42:56,643: Invalid row in CSV: {'johndoe': 'janedoe', 'admin': 'user', 'defaultpass123': 'userpass456'}
+2024-12-12 22:45:05,282: Failed to create user 'johndoe': Command '['sudo', 'useradd', '-m', 'johndoe']' returned non-zero exit status 1.
+2024-12-12 22:45:05,316: Failed to create user 'janedoe': Command '['sudo', 'useradd', '-m', 'janedoe']' returned non-zero exit status 1.
+2024-12-12 23:30:34,846: Failed to create user 'johndoe': Command '['sudo', 'useradd', '-m', 'johndoe']' returned non-zero exit status 1.
+2024-12-12 23:30:34,917: Failed to create user 'janedoe': Command '['sudo', 'useradd', '-m', 'janedoe']' returned non-zero exit status 1.
+2024-12-12 23:32:33,468: Failed to create user 'johndoe': Command '['sudo', 'useradd', '-m', 'johndoe']' returned non-zero exit status 1.
+2024-12-12 23:32:33,501: Error processing CSV file: Command 'echo'johndoe:defaultpass123' | sudo chpasswd' returned non-zero exit status 1.
