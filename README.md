@@ -1,16 +1,23 @@
 # System-Administration
 This project tests the understanding of Python scripting for system administration tasks. I developed a Python script using one-level subcommands, with each subcommand handling a specific system-level operation. Tasks include automating backups, user management, file organization, and monitoring system health on a CentOS 9 virtual machine.
+
+
 Project Requirements
-1.	User Requirements Analysis & Pseudocode Design
+
+User Requirements Analysis & Pseudocode Design
 
 Draft of detailed pseudocode based on project requirements.
 
-3.	 User Management 
-User Creation and Deletion: Allow creation and deletion of users with role-based access.
+User Management 
+
+User Creation and Deletion: Allow creation and deletion of users with role-based 
+
+access.
 
 Role-Based Access Control: Assign permissions based on admin or user roles.
 
 User Information Update: Command-line argument to update user information.
+
 Subcommand: user
 
 • Create Users: Add single users or multiple users from a CSV file with role-based
@@ -20,7 +27,7 @@ access.
 
 • Update Users: Modify user passwords and detail.
 
-4.	Directory organization
+Directory organization
 
 •	Organize files based on file types.
 
@@ -30,7 +37,7 @@ them.
 
 •	Track and log file access events.
 
-5.	System Health Monitoring 
+System Health Monitoring 
 
 Subcommand: monitor
 
