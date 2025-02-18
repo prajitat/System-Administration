@@ -27,4 +27,3 @@ minute for 10 minutes.
 • Error Logging: Centralized error logging with timestamps.
 • Security Validation and Input Sanitization: Check for valid inputs and safe
 handling of sensitive information.
-![image](https://github.com/user-attachments/assets/4f709b6b-c653-424a-9ec8-a228a198299b)
